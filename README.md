@@ -12,8 +12,8 @@ API: https://beta.openai.com/account/api-keys)<br>
 <b>4-)</b>اکنون می توانید افزونه را از قسمت داشبرد مدیریت کنید.<br>
 
 # تصاویر
-![Screenshoot](EN1.png "Screenshoot")<br>
-![Screenshoot](EN2.png "Screenshoot")
+![Screenshoot](pic1.png "Screenshoot")<br>
+![Screenshoot](pic2.png "Screenshoot")
 
 افزونه به طور مداوم در حال توسعه است، برای ارتباط و پشتیبانی می توانید از لینک های زیر استفاده کنید.
 
@@ -21,7 +21,7 @@ API: https://beta.openai.com/account/api-keys)<br>
 Telegram Channel: (t.me/Rahanesh)
 
 
-Buy me a coffee or VP 🙈
+Buy me a coffee or LinuxVPS 🙈
 https://zarinp.al/rahanesh.ir
 https://t.me/RahaneshPaybot
 Contact:
